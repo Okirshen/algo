@@ -1,0 +1,14 @@
+{
+  "name": "algo",
+  "version": "1.0.0",
+  "description": "Algo is a algorithm testing CLI tool",
+  "main": "index.js",
+  "author": "Ofri Kirshen",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^6.2.0",
+    "inquirer": "^7.3.3"
+  },
+  "bin": "./bin/algo.js"
+}
